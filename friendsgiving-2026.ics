@@ -7,7 +7,8 @@ UID:friendsgiving-2026@jethzabell.github.io
 DTSTAMP:20261110T000000Z
 DTSTART:20261125T230000Z
 SUMMARY:Friendsgiving 2026
-DESCRIPTION:Our Friendsgiving gathering. Location to be confirmed.
+LOCATION:Jessy's home
+DESCRIPTION:Our Friendsgiving gathering at Jessy's home.
 URL:https://jethzabell.github.io/friendsgiving-web/
 END:VEVENT
 END:VCALENDAR
